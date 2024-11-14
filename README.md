@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Kaio França ✌
 
-Estudante de Ciência da Computação, apaixonado por tecnologia e finanças! Atualmente, sou integrante do projeto Estartando Devs 2024, com foco em C#, .NET e SQL Server. Além disso, estudo desenvolvimento WEB front-end com HTML, CSS, JavaScript, TypeScript, React e NextJS.
+Estudante de Ciência da Computação na UERN (Universidade do Estado do Rio Grande do Norte), atualmente no segundo período. Tenho interesse em áreas como Machine Learning, Desenvolvimento Web e Ciência de Dados, e estou sempre em busca de aprender novas tecnologias e linguagens.
+
+Sinta-se à vontade para acompanhar meus repositórios e projetos ou entrar em contato para colaborar em ideias e projetos!
 
 <div style="display: flex">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -13,10 +15,10 @@ Estudante de Ciência da Computação, apaixonado por tecnologia e finanças! At
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kaio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Kaio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kaio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kaio-CSharp" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)">
   <img align="center" alt="Kaio-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
