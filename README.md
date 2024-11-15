@@ -4,10 +4,10 @@ Estudante de Ciência da Computação na UERN (Universidade do Estado do Rio Gra
 
 <div style="display: flex">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=kaiofranca&theme=radical" />
+        <img height=155em align="center" src="https://github-readme-stats.vercel.app/api?username=kaiofranca&theme=radical" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-        <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiofranca&layout=compact&theme=radical&langs_count=8&card_width=320" />
+        <img height=155em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiofranca&layout=compact&theme=radical&langs_count=8&card_width=320" />
     </a>
 </div>
 
