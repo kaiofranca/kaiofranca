@@ -1,4 +1,4 @@
-## Olá! Eu sou o Kaio França ✌
+## Olá! Eu sou o Kaio França!
 
 Estudante de Ciência da Computação na UERN (Universidade do Estado do Rio Grande do Norte), atualmente no segundo período. Tenho interesse em áreas como Machine Learning, Desenvolvimento Web e Ciência de Dados, e estou sempre em busca de aprender novas tecnologias e linguagens. Sinta-se à vontade para acompanhar meus repositórios e projetos ou entrar em contato para colaborar em ideias e projetos!
 
