@@ -2,6 +2,12 @@
 
 Estudante de Ciência da Computação na UERN (Universidade do Estado do Rio Grande do Norte), atualmente no quinto período. Tenho interesse em áreas como Machine Learning, Desenvolvimento Mobile e Ciência de Dados, e estou sempre em busca de aprender novas tecnologias e linguagens. Sinta-se à vontade para acompanhar meus repositórios e projetos ou entrar em contato para colaborar em ideias e projetos!
 
+<div>
+  <a href="https://github.com/kaiofranca">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofranca&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kaio-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg">
